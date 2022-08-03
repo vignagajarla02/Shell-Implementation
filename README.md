@@ -13,7 +13,6 @@ Project Description:
   output redirection, and aliasing.
   
 How to Run:
-
   1) Download files onto your local machine
   2) Run the Makefile in your filepath by simply typing "Make" in the terminal.
   3) To run in interactive mode, type "./mysh", then run any command by starting with "/bin/[insert command here]" followed by the comnmand in place of 
