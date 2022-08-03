@@ -22,3 +22,5 @@ How to Run:
 Notes: 
   1) To redirect your output, simply use ">" after the command followed by the output file. ex: /bin/ls -la /tmp > output
   2) to create an alias, type "alias [desired shortcut] [actual command]". ex: alias ls /bin/ls
+  
+  Code Copyright: Vigna Gajarla and Lilly Boyd
